@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Mary @marylarner
+# 👋 Hi, I’m Mary Larner
 
 ### 👀 I’m interested in ...
-- Web Development
+- BI Development & Engineering
 - AI, ML, Data Science
 - Database, SQL
-- BI Development & Engineering
+- Web Development
 
 ### 🌱 I’m currently learning ...
 - Database Fundamentals
