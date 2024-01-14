@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Mary Larner
 
 ### 👀 I’m interested in ...
-- BI Development & Engineering
-- AI, ML, Data Science
-- Database, SQL
+- Business Intelligence Development & Engineering
+- AI, ML, and Data Science
+- Database, and SQL
 - Web Development
 
 ### 🌱 I’m currently learning ...
-- Database Fundamentals
+- Variety of Cloud-Based Database Fundamentals
 - Cyber Security
 - Application Development
